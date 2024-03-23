@@ -1,5 +1,5 @@
-<h1 align="center">hi 🩵 i'm amaan</h1>
-<h3 align="center">full stack software engineer & cs grad @UBC (Dec '23)</h3>
+<h1>hi 🩵 i'm amaan</h1>
+<h3>full stack software engineer & cs grad @UBC (Dec '23)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goamaan&label=Profile%20views&color=9ee7ff&style=flat" alt="goamaan" /> </p>
 
@@ -20,8 +20,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/goamaan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="goamaan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goamaan&show_icons=true&locale=en&layout=compact" alt="goamaan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goamaan&show_icons=true&theme=synthwave&text_color=ffffff&bg_color=00eeff&locale=en" alt="goamaan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goamaan&theme=dark" alt="goamaan" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=goamaan&theme=dark" alt="goamaan" /></p>
