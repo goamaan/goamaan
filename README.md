@@ -9,7 +9,7 @@
 
 - You can reach me here **amaangokak18@gmail.com**
 
-- https://drive.google.com/file/d/1hRtZDuzANPUaQoAI0KhFz9d4o3UekXY2/view [Resume Link](Resume Link)
+- Resume - https://drive.google.com/file/d/1hRtZDuzANPUaQoAI0KhFz9d4o3UekXY2/view
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
